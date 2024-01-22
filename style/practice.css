@@ -44,3 +44,38 @@ height: 808px;
 flex-shrink: 0;}
 section{width: 1600px;
 height: 800px;}
+.section2{text-align: right;}
+.practie-tittle2{width: 288px;
+    color:(#151414);
+    font-family: "Work Sans";
+    font-size: 40px;
+    font-weight: 700;
+width: 288px;
+height: 94px;
+padding-left: 862px;
+padding-right: 450px;
+padding-top: 370px;
+padding-bottom: 0px;}
+.practice-info2{width: 423px;
+text-align:right
+height: 104px;
+color:(#444343);
+padding-left: 745px;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+padding-right: 322px;
+padding-top: 24px;
+}
+.list1{padding-bottom: 8px;
+display: flex;
+text-decoration: none;
+color: #444343;
+padding-left: 750px;
+}
+main{background-color:#FFF;
+background-image: url("/person.png");
+background-repeat: no-repeat;
+width: 451px;
+height: 898px;
+
