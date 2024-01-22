@@ -1,0 +1,46 @@
+.practie-tittle{color: #151414;
+    margin-bottom: 26px;
+    padding-left: 845px;
+   width: 525px;
+   height: 228px;
+   color:(#151414);
+text-align: right;
+font-family: "Work Sans";
+font-size: 65px;
+font-weight: 700;
+  /*   gflj woiprjg  */
+}
+.practice-info{color: var(#444343);
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    height: 78px;
+    width: 560px;
+    padding-left: 800px;
+}
+.practice1{text-align: right;
+padding-right: 255px;}
+.primary-btn{color: #FFF;
+
+    text-align: right;
+    font-family: "Work Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border-radius: 7px;
+    background: #F15B22;
+padding: 26px 21px 25px 20px; 
+}
+header{padding-top: 216px;
+padding-bottom: 20px;
+font-size: larger;
+}
+body{background-image: url("/images/Banner/banner1.png");
+background-repeat: no-repeat;
+width: 1600px;
+height: 808px;
+flex-shrink: 0;}
+section{width: 1600px;
+height: 800px;}
